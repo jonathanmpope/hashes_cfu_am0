@@ -1,6 +1,7 @@
 # Self Evaluation
 
 - What did you struggle with in this section?
+
 **Not really. The only thing I struggled with was switching syntax with semicolons, hash rockets, and quotations and how that changed methods around changing keys, calling them, etc.**
 
 - How is note-taking going? What are you finding helpful? When do you find yourself taking the most helpful notes?
